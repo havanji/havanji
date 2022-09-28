@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @havanji
-- 👀 I’m interested in programing web site
+- 👀 I’m interested in programing web site and console apps
 - 🌱 I’m currently learning HTML, CSS, JS, Python and C#
 - 📫 How to reach me on Instagram @_and.riiko_ or Telegram @Havanji
